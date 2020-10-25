@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+header{
+    width: 1200px;
+    background-color: #7f56f5;
+    text-align: center;
+    padding: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+header p{
+    color: white;
+    font-size: 11px;
+}
+header h1{
+    color: white;
+    font-size: 36px;
+}
+.container1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    overflow: hidden;
+}
+.box{
+    float: left;
+    width: 50%;
+    padding: 20px 10px;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+h2{
+    font-size: 25px;
+}
+p{
+    line-height: 1;
+    font-size: 9px;
+}
